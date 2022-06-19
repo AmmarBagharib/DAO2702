@@ -16,4 +16,4 @@ I further split and compared these categories against each other, to derive even
 
 My group and I then included recommendations as to what LendingClub could take on to increase their profits by pinpoiting potentially high default users that we have analysed.
 
-I've attached the html file of my project code, as well as the report findings in a pdf format!
+The "Project_TA15_wed4pm_code" file reflects my project code, the data cleaning done, as well as the descriptive analysis upon the report findings.
